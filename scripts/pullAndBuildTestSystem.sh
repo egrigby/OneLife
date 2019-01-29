@@ -7,12 +7,12 @@ fi
 
 if [ ! -e OneLife ]
 then
-	git clone https://github.com/jasonrohrer/OneLife.git
+	git clone https://github.com/egrigby/OneLife.git
 fi
 
 if [ ! -e OneLifeData7 ]
 then
-	git clone https://github.com/jasonrohrer/OneLifeData7.git	
+	git clone https://github.com/egrigby/OneLifeData7.git	
 fi
 
 
